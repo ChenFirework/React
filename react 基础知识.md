@@ -33,7 +33,7 @@ react的生命周期分为三个部分：构建期，更新期，销毁期；
 ### 3、销毁期：componentWillUnmounte,componentDidUnmounted
 
 # 5、什么是Props？
-父组件通过props向自组件传递信息；
+父组件通过props向子组件传递信息；
 # 6、React中的状态是什么？它是如何使用的？
 react中的状态是state，在组件内通过this.state来调用状态；通过this.setState()来改变组件状态；
 # 7、调用setState之后发生了什么？
